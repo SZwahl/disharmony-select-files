@@ -1,10 +1,17 @@
 # disharmony-select-files
 
-Forest Generation files:
+## Forest Generation files:
 MoriManager.cpp / h
 
-Agent Navigation files:
+## Agent Navigation files:
 AgentNavigationManager.cpp / h
 
-Agent Behavior:
-AgentsBehaviorManager.cpp / h
+## Agent Behavior:
+
+### The main one:
+AgentsBehaviorManager.cpp / h 
+
+### Each unit:
+CuttersManagerAgain.cpp / h
+LimbsManager.cpp / .h
+WeaverManager.cpp / h
