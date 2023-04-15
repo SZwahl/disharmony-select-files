@@ -12,6 +12,6 @@ AgentNavigationManager.cpp / h
 AgentsBehaviorManager.cpp / h 
 
 ### Each unit:
-CuttersManagerAgain.cpp / h
-LimbsManager.cpp / .h
-WeaverManager.cpp / h
+- CuttersManagerAgain.cpp / h
+- LimbsManager.cpp / .h
+- WeaverManager.cpp / h
